@@ -1,10 +1,9 @@
 # React Native Project
  React native "Todo list" example for Android, using a local json-server as backend. Just press the "Login" button, no authentication is required.
 
-<img src="./assets/todo-list-login.jpg" height="48" width="48" >
-![app](./assets/todo-list-login.jpg | width="100")
-![app](./assets/todo-list.jpg)
-![app](./assets/todo-list-edit.jpg)
+<img src="./assets/todo-list-login.jpg" height="300" align="left" />
+<img src="./assets/todo-list.jpg" height="300" align="left" />
+<img src="./assets/todo-list-edit.jpg" height="300" align="left" />
 
 ## Requirements:
 - [nodejs](https://nodejs.org/en/)
