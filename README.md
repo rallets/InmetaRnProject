@@ -1,2 +1,33 @@
-# InmetaRnProject
- React native Todo list example for Android
+# React Native Project
+ React native "Todo list" example for Android, using a local json-server as backend. Just press the "Login" button, no authentication is required.
+
+![app](./assets/todo-list-login.jpg)
+![app](./assets/todo-list.jpg)
+![app](./assets/todo-list-edit.jpg)
+
+## Requirements:
+- [nodejs](https://nodejs.org/en/)
+- [vscode](https://code.visualstudio.com/)
+- [yarn](https://yarnpkg.com/lang/en/) (optional NPM package manager)
+- [android studio](https://developer.android.com/studio)
+- An Android emulator in Android Studio
+
+## Build and run
+- (if installed) uninstall the legacy react-native-cli 
+```sh
+$ npm uninstall -g react-native-cli
+```
+- install all the npm packages and start the json-server as backend
+```sh
+$ npm install
+$ npm run backend
+```
+- run the emulator
+- build and run the React Native code in the emulator
+```sh
+$ npm run android
+```
+or
+```sh
+$ npm run ios
+```
