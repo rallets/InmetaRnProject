@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Task 01",
+      "description": "Task to do",
+      "id": "GLGN0VP",
+      "finished": false
+    },
+    {
+      "title": "Task 02",
+      "description": "Task to do is....",
+      "id": "xBwkYid",
+      "finished": true
+    },
+    {
+      "description": "Another task",
+      "id": "eCgLh4j",
+      "title": "Task 03",
+      "finished": true
+    }
+  ]
+}
