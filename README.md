@@ -27,7 +27,7 @@ $ npm run backend
 ```sh
 $ npm run android
 ```
-or
+or (not tested)
 ```sh
 $ npm run ios
 ```
